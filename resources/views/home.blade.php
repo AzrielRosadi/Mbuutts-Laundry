@@ -18,7 +18,8 @@
         <div class="container mx-auto px-6 text-center">
             <h2 class="text-3xl font-bold text-black mb-12">Layanan Laundry Kami</h2>
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-12">
-                <div class="bg-white shadow-lg rounded-xl overflow-hidden">
+                <div
+                    class="bg-white shadow-lg rounded-xl overflow-hidden transform transition duration-300 hover:scale-105 active:rotate-6">
                     <img src="https://images.unsplash.com/photo-1635274605638-d44babc08a4f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                         alt="Laundry Kiloan" class="w-full h-48 object-cover">
                     <div class="p-6">
@@ -27,7 +28,8 @@
                     </div>
                 </div>
 
-                <div class="bg-white shadow-lg rounded-xl overflow-hidden">
+                <div
+                    class="bg-white shadow-lg rounded-xl overflow-hidden transform transition duration-300 hover:scale-105 active:rotate-6">
                     <img src="https://images.unsplash.com/photo-1598808503746-f34c53b9323e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                         alt="Satuan" class="w-full h-48 object-cover">
                     <div class="p-6">
@@ -36,7 +38,8 @@
                     </div>
                 </div>
 
-                <div class="bg-white shadow-lg rounded-xl overflow-hidden">
+                <div
+                    class="bg-white shadow-lg rounded-xl overflow-hidden transform transition duration-300 hover:scale-105 active:rotate-6">
                     <img src="https://images.unsplash.com/photo-1566454544259-f4b94c3d758c?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                         alt="Perlengkapan Bayi" class="w-full h-48 object-cover">
                     <div class="p-6">
@@ -45,7 +48,8 @@
                     </div>
                 </div>
 
-                <div class="bg-white shadow-lg rounded-xl overflow-hidden">
+                <div
+                    class="bg-white shadow-lg rounded-xl overflow-hidden transform transition duration-300 hover:scale-105 active:rotate-6">
                     <img src="https://images.unsplash.com/photo-1589863465747-f337e97f8f3d?q=80&w=2038&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                         alt="Boneka" class="w-full h-48 object-cover">
                     <div class="p-6">
@@ -54,7 +58,8 @@
                     </div>
                 </div>
 
-                <div class="bg-white shadow-lg rounded-xl overflow-hidden">
+                <div
+                    class="bg-white shadow-lg rounded-xl overflow-hidden transform transition duration-300 hover:scale-105 active:rotate-6">
                     <img src="https://images.unsplash.com/photo-1600166898405-da9535204843?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q0FSUEVUfGVufDB8fDB8fHww"
                         alt="Karpet" class="w-full h-48 object-cover">
                     <div class="p-6">
@@ -63,7 +68,8 @@
                     </div>
                 </div>
 
-                <div class="bg-white shadow-lg rounded-xl overflow-hidden">
+                <div
+                    class="bg-white shadow-lg rounded-xl overflow-hidden transform transition duration-300 hover:scale-105 active:rotate-6">
                     <img src="https://images.unsplash.com/photo-1539208175673-6b9149754096?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q1VSVEFJTnxlbnwwfHwwfHx8MA%3D%3D"
                         alt="Gordyn" class="w-full h-48 object-cover">
                     <div class="p-6">
