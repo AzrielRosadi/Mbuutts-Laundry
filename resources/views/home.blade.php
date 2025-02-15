@@ -3,7 +3,8 @@
 @section('content')
     <!-- Hero Section -->
     <section class="text-center py-48 px-6 md:px-16 lg:px-36 bg-blue-50 bg-cover bg-center relative mb-12"
-        style="background-image: url('/assets/img/home.jpg'); background-size: cover; background-position: center; background-attachment: fixed;">
+        style="background-image: url('https://images.unsplash.com/photo-1626806819282-2c1dc01a5e0c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover; background-position: center; background-attachment: fixed;">
         <div class="overlay bg-black bg-opacity-50 absolute top-0 left-0 w-full h-full"></div>
         <div class="relative z-10">
             <h2 class="text-4xl font-bold text-white">Laundry Berkualitas untuk Pakaian Bersih & Segar</h2>
