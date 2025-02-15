@@ -154,7 +154,7 @@
         @endif
         <form class="mt-4 flex justify-center space-x-4" action="{{ route('search.noHp') }}" method="POST">
             @csrf
-            <input class="border border-gray-300 p-2 rounded-md" type="text" placeholder="Masukkan Nomor Telepon"
+            <input class="border border-gray-300 p-2 rounded-md" type="text" placeholder="Masukkan Nomer 81234"
                 name="noHp" required>
             <button class="bg-blue-600 text-white px-4 py-2 rounded-md">Cari</button>
         </form>
