@@ -28,9 +28,12 @@
         <div class="mb-4">
             <label for="status" class="block text-sm font-medium text-gray-700">Status</label>
             <select class="mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500" name="status" required>
-                <option value="Belum Selesai" {{ $data->status == 'Belum Selesai' ? 'selected' : '' }}>Belum Selesai</option>
-                <option value="Diproses" {{ $data->status == 'Diproses' ? 'selected' : '' }}>Diproses</option>
-                <option value="Selesai" {{ $data->status == 'Selesai' ? 'selected' : '' }}>Selesai</option>
+                <option value="Diterima" {{ $data->status == 'Diterima' ? 'selected' : '' }}>Diterima</option>
+                    <option value="Dicuci" {{ $data->status == 'Dicuci' ? 'selected' : '' }}>Dicuci</option>
+                    <option value="Disetrika" {{ $data->status == 'Disetrika' ? 'selected' : '' }}>Disetrika</option>
+                    <option value="Selesai" {{ $data->status == 'Selesai' ? 'selected' : '' }}>Selesai</option>
+                    <option value="Belum Selesai" {{ $data->status == 'Belum Selesai' ? 'selected' : '' }}>Belum Selesai
+                    </option>
             </select>
         </div>
 
